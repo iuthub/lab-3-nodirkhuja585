@@ -1,0 +1,43 @@
+.maincs{
+	border: 10px white solid;
+
+	}
+.title{
+	margin: 5px;
+	background-color: #A8F0F0;
+	text-align: right;
+}
+.titlecontent{
+	font-size: 14pt;
+}
+
+.article{
+margin: 5px;
+border: 4px #C2E9E9 solid;
+background-color: #e6ffff;
+overflow: auto;
+}
+.article1{
+	margin: 5px;
+background-color: #e6ffff;
+border: 4px #C2E9E9 solid;
+overflow: auto;
+}
+.time{
+	border-bottom: 2px blue dashed;
+	width: 110px;
+	float: left;
+
+}
+.sidebar{
+margin: 5px;
+border: 4px #248f8f solid;
+background-color: #e6ffff;
+overflow: auto;
+	float: left;
+	width: 20%;
+}
+.content{
+	float: right;
+	width: 77%;
+}
